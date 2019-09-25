@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # 每次生成并测试一个组合
 def Hire4Show(candList,candTalents,talentList):
     n = len(candList)
